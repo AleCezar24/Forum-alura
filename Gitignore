@@ -1,0 +1,18 @@
+# Build do Maven
+/target/
+*.log
+*.class
+
+# Configurações de IDE (IntelliJ, VS Code)
+.idea/
+.vscode/
+*.iml
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Outros
+/.mvn/
+*.bak
+.env
